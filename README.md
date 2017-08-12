@@ -1,2 +1,2 @@
 # Turnament
-gamification of threat hunting
+Gamification for Blue Teams finding evil
