@@ -1,0 +1,15 @@
+0.2.2
+  * Fix several test cases
+
+0.2.1
+  * Fix of PyPI packaging
+
+0.2.0
+  * Implement new rule syntax
+  * Add time-aware / recurring achievements
+  * Add optional authentication & authorization
+  * Introduce goal triggers
+  * Introduce mobile pushes
+  * Introduce messages
+  * Lots of bugfixes
+  * Remove Python 2.x support
